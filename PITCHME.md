@@ -1,19 +1,9 @@
----
-layout: post
-title:  "Usando o Cloudinary como alternativa ao S3 da AWS"
-date:   2018-06-14 06:06:06 -0300
-categories: 
-    - "tutorial"
-    - "django"
-    - "cloudinary"
----
-
 > Aprenda a criar um projeto Django, rodando na Heroku e integrado com Cloudinary
 
 Gerenciar arquivos e imagens em produção pode ser um aborrecimento. Costuma ser bem difícil lidar com uploads, armazenamento, manipulação, administração e entrega de conteúdo de mídia em todos os projetos em que você começa ou está envolvido.
 
 Felizmente, existem plataformas na nuvem que tiram o estresse de tudo isso, permitindo que você envie mais rapidamente e entregue seus produtos em grande escala. Cloudinary é uma dessas plataformas.
-
+---
 Além da API fácil de usar da Cloudinary, o seu plano gratuito é bastante generoso.
 
 ![Planos Cloudinary](https://res.cloudinary.com/mulhergorila/image/upload/v1529013672/blog-images/cloudinary-plans.jpg){:class="img-responsive"}
